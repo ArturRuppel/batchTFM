@@ -1,0 +1,11 @@
+conda create --name batchTFM python=3.7 openssl=1.1.1
+conda activate batchTFM
+conda install -c anaconda nbconvert
+conda install spyder
+
+pip install pyTFM
+pip install moviepy
+pip install tifffile
+
+optional:
+pip install spyder-kernels==2.5.*

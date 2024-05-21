@@ -1,0 +1,9 @@
+Frame interval = 180 s 
+Pixel size = 0.108 µm 
+Forcemap pixel size = 0.432 µm 
+Rolling ball radius for background substraction = [0, 0, 0, 0] pixel 
+Lower percentile threshold for contrast adjustment = [90, 70, 70, 70]
+Size of gaussian smoothing window = [1, 1, 1, 1] pixel 
+Young's Modulus of TFM gel = 19660 Pa 
+Poisson's ratio of TFM gel = 0.5
+Regularization parameter = 1e-19
